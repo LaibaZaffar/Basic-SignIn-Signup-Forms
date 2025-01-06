@@ -21,3 +21,10 @@ To view and interact with the forms locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/LaibaZaffar/Basic-SignIn-Signup-Forms.git
+   ```
+2. **Navigate to the project directory**
+   ```bash
+   cd Basic-SignIn-Signup-Forms
+   ```
+3. Open **index.html** in your preferred web browser to access the forms.
+
